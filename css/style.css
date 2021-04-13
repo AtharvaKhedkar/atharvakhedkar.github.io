@@ -1079,7 +1079,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   float: left;
   margin-bottom: 40px;
   position: relative;
-  height: 75px;
+  height: 100px;
 }
 
 .colorlib-feature .colorlib-icon {
