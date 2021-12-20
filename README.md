@@ -1,3 +1,3 @@
 # Portfolio
 
-Visit https://atharvakhedkar.co
+Visit https://atharvakhedkar.tech
